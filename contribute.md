@@ -23,3 +23,6 @@
   `docker run -e DATABASE_URL=postgresql://postgres:yourpassword@localhost:5432/docker-compose-db --network my_network -p 3000:3000 node-project`
 
 ## Docker Compose installation steps
+
+- Install docker
+- Run `docker-compose up`
